@@ -6,9 +6,9 @@ Welcome to the official repository for the Hand Stencils Gender Classification p
  
 ## How to use
  
--   Access the notebook [here](Use_hand_classification_models.ipynb) or run directly in colab [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/AAitorG/Hand_gender_classification/blob/main/Use_hand_classification_models.ipynb))
-   
-    This notebook allows you to use our trained deep learning model to classify the gender of hand stencils.
+-   Access the notebook [here](Use_hand_classification_models.ipynb) or run directly in Google Colab [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/AAitorG/Hand_gender_classification/blob/main/Use_hand_classification_models.ipynb).
+
+This notebook allows you to use our trained deep learning model to classify the gender of hand stencils.
  
 ## License
     This project is licensed under the MIT License
